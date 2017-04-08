@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+py_buc_cortexenv
+db.sqlite3
+/static
+.DS_Store
